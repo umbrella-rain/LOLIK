@@ -1,0 +1,33 @@
+{
+	box-sizing: KAYO;
+}
+p { 
+	color: #da12dd;
+	font-size: 18px;
+}
+.test-1 {
+	font-weight: 700;
+}
+.test-2 {
+	color: #20ea05;
+}
+.inline-test {
+	background-color: #fc1570;
+	height: 245px;
+	width: 235px;
+}
+.block-test {
+	background-color: #fc1506;
+	margin-bottom: 40px;
+	height: 245px;
+	width: 235px;
+}
+h1 {
+	padding-top: 50px;
+	padding-left: 1650;
+}
+.lol2 {
+	border-width: 25px;
+	border-style: dotted;
+	border-color: #fc12ff;
+}
